@@ -3,6 +3,7 @@
 This project is currently unmaintained. There are a handful of other options for interacting with Kafka from Ruby:
 
   * A pure ruby client, [ruby-kafka](https://github.com/zendesk/ruby-kafka), which is 0.9 compatible and support consumer groups.
+  * A client for Kafka 1.0+ that uses librdkafka under water, [rdkafka-ruby](https://github.com/appsignal/rdkafka-ruby)
   * A REST proxy, [Kafka Rest](https://github.com/confluentinc/kafka-rest).
   * For JRuby there is [jruby-kafka](https://github.com/joekiller/jruby-kafka) which wraps the Java consumer.
 
